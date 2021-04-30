@@ -1,0 +1,94 @@
+body{
+  background-color: #1a1a1a;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0px;
+}
+
+.top-container{
+  margin: 20px auto;
+  color: white;
+  text-align: center;
+}
+
+.middle-container{
+  position: relative;
+  color: white;
+  background-image: url(images/mountain.png);
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  width: 100%;
+  height: 70em;
+  margin: 0px auto;
+  padding-top: 1px;
+}
+
+
+.pp{
+  border-radius: 1000px;
+  width: 10%;
+}
+
+h1{
+  font-family: 'Krona One', sans-serif;
+  font-weight: lighter;
+  color: white;
+}
+
+
+
+.mountain{
+  width: 100%;
+  margin: 0px;
+  filter: blur(4px);
+}
+
+.pyside{
+  position: absolute;
+  top: 30px;
+  left: 200px;
+}
+
+.socialside{
+  padding: 10px;
+}
+
+
+
+.webside{
+  position: absolute;
+  top: 30px;
+  right: 200px;
+}
+
+.terminalimage{
+  width: 30%;
+}
+
+.websiteimage{
+  width: 30%;
+}
+
+.instagramimage{
+  width: 3%;
+  padding: 5px;
+}
+
+.youtubeimage{
+  width: 3%;
+  padding: 5px;
+}
+
+.twitterimage{
+  width: 3%;
+  padding: 5px;
+}
+
+a:link{
+  text-decoration: none;
+  color: white;
+}
+
+a:hover{
+  color: gray;
+}
